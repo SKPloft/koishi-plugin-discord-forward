@@ -1,10 +1,10 @@
 {
-  "name": "koishi-plugin-forward",
+  "name": "koishi-plugin-discord-forward",
   "version": "3.0.0",
   "description": "forward!",
   "main": "lib/index.js",
-  "repository": "https://github.com/Anillc/forward",
-  "author": "anillc",
+  "repository": "https://github.com/SKPloft//koishi-plugin-discord-forward",
+  "author": "SKPloft",
   "license": "MIT",
   "files": [
     "lib/"
